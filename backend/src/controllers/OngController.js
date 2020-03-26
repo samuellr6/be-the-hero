@@ -17,7 +17,7 @@ module.exports = {
         await connection('ongs').insert ({
     
             id,
-            nome,
+            name,
             email,
             whatsapp,
             city,
